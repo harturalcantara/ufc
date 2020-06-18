@@ -1,3 +1,14 @@
-# Ciência da Computação
+# Computer Science (UFC)
 
-Implentações de atividades, trabalhos e desafios desenvolvidos das disciplinas do curso de Ciência da Computação na Universidade Federal do Ceará (Campus Crateús).
+Implementation of activities, works and challenges developed by the subjects of the Computer Science course at the Federal University of Ceará (Campus Crateús).
+
+Disciplines seen during the course
+
+- Systems Analysis and Design
+- Algorithm Design and Analysis
+- Structured Data
+- Advanced Data Structure
+- Compilers
+- Programming fundamentals
+- Computer Architecture
+- Operational systems

@@ -12,3 +12,6 @@ Disciplines seen during the course
 - Programming fundamentals
 - Computer Architecture
 - Operational systems
+- Distributed systems
+- Computer network
+- Object Oriented Programming

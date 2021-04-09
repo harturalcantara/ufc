@@ -1,8 +1,8 @@
-# Computer Science (UFC)
+# Computer Science Federal University of Ceará (Campus Crateús)
 
 Implementation of activities, works and challenges developed by the subjects of the Computer Science course at the Federal University of Ceará (Campus Crateús).
 
-Disciplines seen during the course
+Disciplines seen during the course:
 
 - Systems Analysis and Design
 - Algorithm Design and Analysis
@@ -15,3 +15,5 @@ Disciplines seen during the course
 - Distributed systems
 - Computer network
 - Object Oriented Programming
+
+updating...

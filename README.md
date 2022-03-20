@@ -1,6 +1,6 @@
-# Computer Science Federal University of Ceará (Campus Crateús)
+# Computer Science Federal University of Ceará
 
-Implementation of activities, works and challenges developed by the subjects of the Computer Science course at the Federal University of Ceará (Campus Crateús).
+Implementation of activities, works and challenges developed in the Computer Science course at the Federal University of Ceara.
 
 Disciplines seen during the course:
 
